@@ -1,3 +1,4 @@
+wait(3)
 if not game['Loaded'] or not game:GetService('Players')['LocalPlayer'] then
     game['Loaded']:Wait();
     game:WaitForChild(game:GetService('Players'));
