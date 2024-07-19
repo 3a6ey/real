@@ -353,7 +353,8 @@ local MobList = {
     [555980327] = { 'Snowgre', 'Angry Snowman', 'Icewhal', 'Ice Elemental', 'Snowhorse', 'Ice Walker', 'Alpha Icewhal', 'Qerach the Forgotten Golem', 'Ra\'thae the Ice King',
     'Evergreen Sentinel', 'Crystalite', 'Gemulite', 'Icy Imp', 'Holiday Android', 'Jolrock the Snow Protecter', 'Withered Wintula' },
     [548231754] = { 'Leaf Beetle', 'Leaf Ogre', 'Leafray', 'Pearl Keeper', 'Bushback Tortoise', 'Giant Ruins Hornet', 'Wasp', 'Pearl Guardian', 'Gorrock the Grove Protector', 'Borik the BeeKeeper' },
-    [542351431] = { 'Frenzy Boar', 'Hermit Crab', 'Wolf', 'Bear', 'Earthen Crab', 'Earthen Boar', 'Crimsonite', 'Ruin Knight', 'Draconite', 'Ruined Kobold Knight', 'Ruin Kobold Knight', 'Dire Wolf', 'Ruined Kobold Lord', 'Rahjin the Thief King' }
+    [542351431] = { 'Frenzy Boar', 'Hermit Crab', 'Wolf', 'Bear', 'Earthen Crab', 'Earthen Boar', 'Crimsonite', 'Ruin Knight', 'Draconite', 'Ruined Kobold Knight', 'Ruin Kobold Knight', 'Dire Wolf', 'Ruined Kobold Lord', 'Rahjin the Thief King' },
+    [16810524216] = {  'Ancient Blossom Knight', 'Eternal Blossom Knight', 'Tworz, The Ancient Tree', 'Azeis, Spirit of the Blossom' }
 }
 
 MobList = MobList[game.PlaceId]
